@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi
 
-<!--
-**paltze/paltze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergrad interested in low-level software and systems programming
 
-Here are some ideas to get you started:
+Committed to free and open-source software that users can inspect, modify, and run freely, without arbitrary restrictions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+-> C/C++ · Rust <br>
+-> Systems programming · Computer architecture · Operating systems · Reverse engineering
+
+### Elsewhere
+-> [Codeforces](https://codeforces.com/profile/CaptainKeano) <br>
+-> [LeetCode](https://leetcode.com/u/paltze/)
+
+---
+<div align="center">
+<small>
+take me home.
+</small>
+</div>
