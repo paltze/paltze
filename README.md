@@ -1,3 +1,5 @@
+![Banner](back.gif)
+
 # Hi
 
 Computer Science undergrad interested in low-level software and systems programming
@@ -15,6 +17,6 @@ Committed to free and open-source software that users can inspect, modify, and r
 ---
 <div align="center">
 <small>
-take me home.
+take me home,
 </small>
 </div>
